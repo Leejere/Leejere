@@ -11,7 +11,7 @@ My name is Jie, and I think a lot, code, and design things urban.
 
 My highlight projects:
 
-- Mobiladelphia: Desktop-oriented web app that helps navigating travel data, answering questions like "How do people depart from Rittenhouse Square for shopping? Do they walk most often?". [GitHub Page](https://github.com/Leejere/js-final-project) | [Web App](https://mobiladelphia.herokuapp.com/)
-- Mobile Philly: Analyzing and visualizing Philadelphia's mobility using the newest Python technologies, e.g., holoviz (hvplot, datashader, etc.) and altair. [GitHub Page](https://github.com/Leejere/mobile-philly) | [Deployed using Jekyll](https://leejere.github.io/mobile-philly/)
-- Canvassers: Mobile-friendly web app that allows voter canvassers to view voters and their information and also modify and record voter information while canvassing. [GitHub Page](https://github.com/Leejere/js-voter-canvassing) | [Web App](https://leejere.github.io/js-voter-canvassing/site/)
-- My past design work: [Portfolio](http://jieliurban.com/).
+- **Mobiladelphia**: Desktop-oriented web app that helps navigating travel data, answering questions like "How do people depart from Rittenhouse Square for shopping? Do they walk most often?". [GitHub Page](https://github.com/Leejere/js-final-project) | [Web App](https://mobiladelphia.herokuapp.com/)
+- [Mobile Philly](http://jieliurban.com/): Analyzing and visualizing Philadelphia's mobility using the newest Python technologies, e.g., holoviz (hvplot, datashader, etc.) and altair. [GitHub Page](https://github.com/Leejere/mobile-philly) | [Deployed using Jekyll](https://leejere.github.io/mobile-philly/)
+- [Canvassers](http://jieliurban.com/): Mobile-friendly web app that allows voter canvassers to view voters and their information and also modify and record voter information while canvassing. [GitHub Page](https://github.com/Leejere/js-voter-canvassing) | [Web App](https://leejere.github.io/js-voter-canvassing/site/)
+- [My past design work](http://jieliurban.com/): [Portfolio](http://jieliurban.com/).
